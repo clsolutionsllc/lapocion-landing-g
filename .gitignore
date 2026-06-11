@@ -1,0 +1,8 @@
+# OS junk
+.DS_Store
+Thumbs.db
+
+# Build-only artifacts (not referenced by the page)
+images/curls.png
+images/ingredients.png
+images/real/
