@@ -6,3 +6,6 @@ Thumbs.db
 images/curls.png
 images/ingredients.png
 images/real/
+
+# Original PNGs kept locally as backup (WebP served)
+images/lux/_png-orig/
